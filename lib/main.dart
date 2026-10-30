@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'screens/home_screen.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  MobileAds.instance.initialize();
   runApp(const MonasteriumApp());
 }
 
@@ -13,10 +16,7 @@ class MonasteriumApp extends StatelessWidget {
     return MaterialApp(
       title: 'Monasterium',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.brown),
-        useMaterial3: true,
-      ),
+      theme: ThemeData.dark(),
       home: const HomeScreen(),
     );
   }

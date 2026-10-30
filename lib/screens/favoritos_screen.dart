@@ -38,11 +38,11 @@ class _FavoritosScreenState extends State<FavoritosScreen> {
     });
   }
 
-  Future<void> _alternarFavorito(int id) async {
-    await _favoritosService.alternarFavorito(id.toString());
+  Future<void> _alternarFavorito(String id) async {
+  await _favoritosService.alternarFavorito(id);
 
-    await _carregarFavoritos();
-  }
+  await _carregarFavoritos();
+}
 
   @override
   Widget build(BuildContext context) {
@@ -55,9 +55,9 @@ class _FavoritosScreenState extends State<FavoritosScreen> {
     }
 
     final favoritos = widget.todosApoftegmas
-        .where((item) => _favoritosIds.contains(item.id.toString()))
-        .toList();
-
+    .where((item) => _favoritosIds.contains(item.texto))
+    .toList();
+    
     return Scaffold(
       appBar: AppBar(
         title: const Text('Favoritos'),
@@ -110,8 +110,8 @@ class _FavoritosScreenState extends State<FavoritosScreen> {
                               ),
                               tooltip: 'Remover dos favoritos',
                               onPressed: () {
-                                _alternarFavorito(item.id);
-                              },
+  _alternarFavorito(item.texto);
+},
                             ),
                           ],
                         ),

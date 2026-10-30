@@ -1,0 +1,345 @@
+[
+  {
+    "id": 1001,
+    "autor": "Abba Arsênio",
+    "texto": "Quando estava no palácio, Arsênio rezou: “Senhor, dirige-me sobre como devo viver.” E uma voz lhe disse: “Arsênio, foge dos homens e viverás.”",
+    "categoria": "Silêncio",
+    "fonte": "Budge 1907, n. 1"
+  },
+  {
+    "id": 1002,
+    "autor": "Abba Arsênio",
+    "texto": "Mais tarde, vivendo a vida ascética no mosteiro, Arsênio fez a mesma oração e ouviu: “Arsênio, foge, guarda o silêncio e vive em quietude, pois estas são as causas fundamentais que impedem o homem de pecar.”",
+    "categoria": "Silêncio",
+    "fonte": "Budge 1907, n. 2"
+  },
+  {
+    "id": 1003,
+    "autor": "Abba Sarmatas",
+    "texto": "Senta-te na tua cela e faz o que puderes, sem te inquietares. Desejo que faças agora um pouco, como fez Abba Antônio na montanha; e creio que, permanecendo na cela pelo Nome de Deus, tu também serás encontrado no mesmo lugar em que está Abba Antônio.",
+    "categoria": "A cela",
+    "fonte": "Budge 1907, n. 9"
+  },
+  {
+    "id": 1004,
+    "autor": "Abba Antônio",
+    "texto": "Assim como o peixe morre quando é tirado da água, assim também morre o monge que se demora fora da sua cela.",
+    "categoria": "A cela",
+    "fonte": "Budge 1907, n. 20"
+  },
+  {
+    "id": 1005,
+    "autor": "Abba Moisés",
+    "texto": "Um irmão foi a Abba Moisés, em Scete, e pediu-lhe uma palavra. O ancião lhe disse: “Vai, senta-te na tua cela, e a tua cela te ensinará tudo.”",
+    "categoria": "A cela",
+    "fonte": "Budge 1907, n. 62"
+  },
+  {
+    "id": 1006,
+    "autor": "Abba Antônio",
+    "texto": "A cela do monge é a fornalha da Babilônia, onde os Três Jovens encontraram o Filho de Deus, e é também a coluna de nuvem da qual Deus falou com Moisés.",
+    "categoria": "A cela",
+    "fonte": "Budge 1907, n. 54"
+  },
+  {
+    "id": 1007,
+    "autor": "Pais do Deserto",
+    "texto": "Numa assembleia, perguntaram a todos os anciãos: “Qual é o combate mais forte contra os monges?” E todos concordaram que nenhum era mais forte do que aquele que leva o homem a deixar a cela e partir; pois, vencido este, todos os outros se vencem com facilidade.",
+    "categoria": "A cela",
+    "fonte": "Budge 1907, n. 23"
+  },
+  {
+    "id": 1008,
+    "autor": "Abba Sisoés",
+    "texto": "É bom que o homem habite na sua cela; e se sofrer com paciência, encontrará toda sorte de bênçãos.",
+    "categoria": "A cela",
+    "fonte": "Budge 1907, n. 48"
+  },
+  {
+    "id": 1009,
+    "autor": "Abba Poemen",
+    "texto": "Um irmão disse a Abba Poemen: “Quase deixei de vir hoje; pensei que, durante o jejum, a porta estaria fechada para mim.” E Abba Poemen respondeu: “Não aprendemos a fechar uma porta de madeira, mas a porta da língua.”",
+    "categoria": "Silêncio",
+    "fonte": "Budge 1907, n. 17"
+  },
+  {
+    "id": 1010,
+    "autor": "Abba Poemen",
+    "texto": "Um irmão perguntou a Abba Poemen: “Se eu vir algo acontecer, queres que o divulgue?” O ancião lhe disse: “Está escrito: ‘Quem anuncia mal um assunto, isso é desonra para ele e motivo de zombaria.’ Se te perguntarem, fala; se não te perguntarem, guarda silêncio.”",
+    "categoria": "Silêncio",
+    "fonte": "Budge 1907, n. 22"
+  },
+  {
+    "id": 1011,
+    "autor": "Um ancião do deserto",
+    "texto": "Um homem parece estar em silêncio, mas o seu coração julga e condena os outros: esse fala continuamente. Outro fala de manhã até a noite e, no entanto, guarda silêncio, pois nada diz que não seja de proveito.",
+    "categoria": "Silêncio",
+    "fonte": "Budge 1907, n. 27"
+  },
+  {
+    "id": 1012,
+    "autor": "Abba Macário",
+    "texto": "Terminado o ofício na igreja, Abba Macário disse aos irmãos: “Fugi, irmãos.” Um dos anciãos perguntou: “Pai, para onde podemos fugir, mais longe do que este deserto?” Então Macário pôs a mão sobre a boca e disse: “Fugi assim.” E foi para a sua cela, fechou a porta e sentou-se.",
+    "categoria": "Silêncio",
+    "fonte": "Budge 1907, n. 30"
+  },
+  {
+    "id": 1013,
+    "autor": "Abba Nestor",
+    "texto": "Abba José perguntou a Abba Nestor: “Que farei com a minha língua, que não consigo dominar?” Respondeu-lhe: “Se falas, encontras alívio?” “Não.” “Então, se falando não ganhas alívio, por que falas? Cala-te.”",
+    "categoria": "Silêncio",
+    "fonte": "Budge 1907, n. 16"
+  },
+  {
+    "id": 1014,
+    "autor": "Um ancião do deserto",
+    "texto": "Um irmão perguntou a um ancião: “O que é a humildade?” Ele respondeu: “Que não pagues o mal com o mal.” O irmão disse: “E se alguém não alcança essa medida, o que deve fazer?” O ancião respondeu: “Fujamos e sigamos o silêncio.”",
+    "categoria": "Humildade",
+    "fonte": "Budge 1907, n. 32"
+  },
+  {
+    "id": 1015,
+    "autor": "Um ancião do deserto",
+    "texto": "Agarra-te ao silêncio. Examina atentamente o modo como te formas, tanto deitado como de pé. Medita no temor de Deus e não temas o ataque dos pecadores. Não consintas em tudo. Sê pronto para ouvir e lento para crer.",
+    "categoria": "Silêncio",
+    "fonte": "Budge 1907, n. 33"
+  },
+  {
+    "id": 1016,
+    "autor": "Um ancião do deserto",
+    "texto": "O homem que experimentou a doçura da quietude da sua cela não foge do encontro com o próximo por desprezo, mas por causa dos frutos que colhe do silêncio.",
+    "categoria": "A cela",
+    "fonte": "Budge 1907, n. 34"
+  },
+  {
+    "id": 1017,
+    "autor": "Abba Moisés",
+    "texto": "O homem que foge do mundo é como uvas maduras; mas o que habita entre os atrativos dos filhos dos homens é como uvas azedas.",
+    "categoria": "A cela",
+    "fonte": "Budge 1907, n. 35"
+  },
+  {
+    "id": 1018,
+    "autor": "Abba Bessarião",
+    "texto": "Um irmão perguntou a Abba Bessarião: “Que devo fazer?” O ancião respondeu: “Guarda silêncio e considera-te como nada.”",
+    "categoria": "Humildade",
+    "fonte": "Budge 1907, n. 39"
+  },
+  {
+    "id": 1019,
+    "autor": "Abba Zacarias",
+    "texto": "Abba Moisés pediu a Abba Zacarias: “Dize uma palavra de consolo aos irmãos.” Zacarias tomou o seu manto, pô-lo debaixo dos pés e disse: “Se o homem não morrer assim, não pode ser monge.”",
+    "categoria": "Humildade",
+    "fonte": "Budge 1907, n. 40"
+  },
+  {
+    "id": 1020,
+    "autor": "Abba Poemen",
+    "texto": "A regra do monge é esta: carregar sempre a sua própria culpa.",
+    "categoria": "Humildade",
+    "fonte": "Budge 1907, n. 41"
+  },
+  {
+    "id": 1021,
+    "autor": "Abba Poemen",
+    "texto": "Se te consideras sem valor aos teus próprios olhos, poderás habitar onde quiseres e encontrar repouso.",
+    "categoria": "Humildade",
+    "fonte": "Budge 1907, n. 42"
+  },
+  {
+    "id": 1022,
+    "autor": "Abba Poemen",
+    "texto": "O homem sempre tropeçará naquilo que não quiser cortar de si.",
+    "categoria": "Vigilância do coração",
+    "fonte": "Budge 1907, n. 43"
+  },
+  {
+    "id": 1023,
+    "autor": "Abba Poemen",
+    "texto": "Se queres adquirir o poder de guardar silêncio, não penses nem digas dentro de ti que praticas obras de excelência espiritual, mas dize: “Não sou digno nem de falar.”",
+    "categoria": "Silêncio",
+    "fonte": "Budge 1907, n. 45"
+  },
+  {
+    "id": 1024,
+    "autor": "Abba Alônio",
+    "texto": "Se o homem não disser em seu coração: “Só Deus e eu existimos neste mundo”, não encontrará repouso.",
+    "categoria": "A cela",
+    "fonte": "Budge 1907, n. 47"
+  },
+  {
+    "id": 1025,
+    "autor": "Abba Pambo",
+    "texto": "Um irmão perguntou a Abba Pambo: “É bom que o homem elogie o seu próximo?” O ancião respondeu: “É muito melhor que o homem se cale.”",
+    "categoria": "Silêncio",
+    "fonte": "Budge 1907, n. 49"
+  },
+  {
+    "id": 1026,
+    "autor": "Abba Poemen",
+    "texto": "Em todo trabalho que sobrevém ao homem, a sua vitória só é segura quando ele guarda silêncio.",
+    "categoria": "Silêncio",
+    "fonte": "Budge 1907, n. 50"
+  },
+  {
+    "id": 1027,
+    "autor": "Abba Arsênio",
+    "texto": "O bem-aventurado Teófilo, arcebispo de Alexandria, foi certa vez com um juiz visitar Abba Arsênio e pediu-lhe uma palavra. O ancião calou-se um pouco e disse: “Se eu vos disser uma palavra, a observareis?” Prometeram que sim. Então disse: “Em qualquer lugar onde ouvirdes que Arsênio está, não vos aproximeis.”",
+    "categoria": "Silêncio",
+    "fonte": "Budge 1907, n. 52"
+  },
+  {
+    "id": 1028,
+    "autor": "Abba Poemen",
+    "texto": "O Espírito de Deus nunca entra na casa onde há delícias e prazeres.",
+    "categoria": "Jejum",
+    "fonte": "Budge 1907, n. 83"
+  },
+  {
+    "id": 1029,
+    "autor": "Abba Poemen",
+    "texto": "Assim como a fumaça afasta as abelhas e os homens colhem a doçura do seu trabalho, assim também a comodidade do corpo afasta do coração o temor de Deus e leva embora todo o bom fruto do seu labor.",
+    "categoria": "Jejum",
+    "fonte": "Budge 1907, n. 95"
+  },
+  {
+    "id": 1030,
+    "autor": "Abba Poemen",
+    "texto": "Todo prazer corporal é desprezível diante do Senhor.",
+    "categoria": "Jejum",
+    "fonte": "Budge 1907, n. 97"
+  },
+  {
+    "id": 1031,
+    "autor": "Um ancião do deserto",
+    "texto": "Sempre que o homem lê os Livros divinos, os demônios têm medo.",
+    "categoria": "Oração",
+    "fonte": "Budge 1907, n. 107"
+  },
+  {
+    "id": 1032,
+    "autor": "Abba Epifânio",
+    "texto": "Conhece-te a ti mesmo e jamais cairás. Dá trabalho à tua alma, isto é, oração constante e amor de Deus, antes que outro lhe dê pensamentos maus e impuros.",
+    "categoria": "Vigilância do coração",
+    "fonte": "Budge 1907, n. 120"
+  },
+  {
+    "id": 1033,
+    "autor": "Abba Epifânio",
+    "texto": "Tudo o que fizeres de bem e de que te gloriares, destrói-o; pois não convém ao monge gloriar-se das suas boas obras, e se se gloriar cairá.",
+    "categoria": "Humildade",
+    "fonte": "Budge 1907, n. 121"
+  },
+  {
+    "id": 1034,
+    "autor": "Abba Epifânio",
+    "texto": "O homem que retém e guarda dentro de si a lembrança das coisas más é como aquele que esconde fogo na palha.",
+    "categoria": "Paciência",
+    "fonte": "Budge 1907, n. 122"
+  },
+  {
+    "id": 1035,
+    "autor": "Abba Poemen",
+    "texto": "Quanto aos pensamentos, é como um homem que tem fogo à esquerda e um tanque de água à direita: se quiser apagar o fogo, toma água do tanque; e convém ao homem agir assim a toda hora. O fogo é o mau pensamento, que vem dos inimigos; a água é a alma derramada diante do Senhor.",
+    "categoria": "Oração",
+    "fonte": "Budge 1907, n. 129"
+  },
+  {
+    "id": 1036,
+    "autor": "Abba Amon",
+    "texto": "Abba Amon viu um jovem que ria e lhe disse: “Não rias, irmão, pois, se o fizeres, expulsarás da tua alma o temor de Deus.”",
+    "categoria": "Lágrimas",
+    "fonte": "Budge 1907, n. 143"
+  },
+  {
+    "id": 1037,
+    "autor": "Um ancião do deserto",
+    "texto": "Deus habita no homem em quem nada de alheio entra.",
+    "categoria": "Vigilância do coração",
+    "fonte": "Budge 1907, n. 147"
+  },
+  {
+    "id": 1038,
+    "autor": "Abba Poemen",
+    "texto": "Bem-aventurado és tu, Abba Arsênio, porque choraste por ti neste mundo. Quem não chora por si neste mundo terá de chorar para sempre no outro. Pode chorar aqui voluntariamente, ou lá por causa dos castigos, mas é impossível ao homem escapar ao pranto, aqui ou lá.",
+    "categoria": "Lágrimas",
+    "fonte": "Budge 1907, n. 152"
+  },
+  {
+    "id": 1039,
+    "autor": "Abba Poemen",
+    "texto": "Quem quiser apagar as suas ofensas pode fazê-lo chorando; e quem quiser adquirir boas obras também pode fazê-lo pelo pranto. Pois o pranto é o caminho que as Escrituras nos ensinaram, e os pais também choraram continuamente; não há outro caminho senão o das lágrimas.",
+    "categoria": "Lágrimas",
+    "fonte": "Budge 1907, n. 154"
+  },
+  {
+    "id": 1040,
+    "autor": "Abba Poemen",
+    "texto": "Há duas coisas a lembrar: devemos temer o Senhor e fazer o bem ao próximo.",
+    "categoria": "Caridade",
+    "fonte": "Budge 1907, n. 155"
+  },
+  {
+    "id": 1041,
+    "autor": "Abba Macário",
+    "texto": "Abba Noé pediu a Abba Macário: “Dize-me uma palavra.” O ancião respondeu: “Foge dos filhos dos homens.” Noé replicou: “Pai, que significa fugir dos filhos dos homens?” E o ancião disse: “Senta-te na tua cela e chora os teus pecados.”",
+    "categoria": "Lágrimas",
+    "fonte": "Budge 1907, n. 156"
+  },
+  {
+    "id": 1042,
+    "autor": "Abba Macário",
+    "texto": "Abba Teodoro de Fermé tinha livros muito belos e perguntou a Abba Macário o que fazer com eles, pois lhe eram de proveito e os irmãos também os tomavam emprestados. O ancião respondeu: “Os labores ascéticos são belos, mas o maior de todos é a pobreza voluntária.” Ao ouvir isso, Teodoro vendeu os livros e deu o dinheiro aos pobres.",
+    "categoria": "Pobreza",
+    "fonte": "Budge 1907, n. 161"
+  },
+  {
+    "id": 1043,
+    "autor": "Um ancião do deserto",
+    "texto": "Se estás num lugar e vês pessoas com muita fartura, não olhes para elas; mas, se há um homem destituído, olha para ele como quem não tem pão, e encontrarás alívio.",
+    "categoria": "Pobreza",
+    "fonte": "Budge 1907, n. 167"
+  },
+  {
+    "id": 1044,
+    "autor": "Um ancião do deserto",
+    "texto": "Como pode um homem ensinar ao seu próximo aquilo que ele mesmo não observa?",
+    "categoria": "Humildade",
+    "fonte": "Budge 1907, n. 173"
+  },
+  {
+    "id": 1045,
+    "autor": "Abba Poemen",
+    "texto": "Quem trabalha e guarda para si o fruto do seu trabalho tem uma dor em dobro.",
+    "categoria": "Pobreza",
+    "fonte": "Budge 1907, n. 175"
+  },
+  {
+    "id": 1046,
+    "autor": "Um ancião do deserto",
+    "texto": "Quando te levantares de manhã, dize: “Ó corpo, trabalha para seres alimentado; ó alma, desperta para herdares a vida.”",
+    "categoria": "Vigilância do coração",
+    "fonte": "Budge 1907, n. 182"
+  },
+  {
+    "id": 1047,
+    "autor": "Abba Agatão",
+    "texto": "Alguns irmãos, querendo prová-lo, disseram a Abba Agatão que ele era fornicador, vaidoso e tagarela. A tudo respondeu: “Sim, sou.” Mas, quando o chamaram de herege, disse: “Não sou herege.” Perguntaram-lhe por quê, e ele respondeu: “As primeiras coisas eu as considerava proveitosas para a minha alma; mas heresia significa separação de Deus, e não quero separar-me de Deus.”",
+    "categoria": "Paciência",
+    "fonte": "Budge 1907, n. 183"
+  },
+  {
+    "id": 1048,
+    "autor": "Abba Antônio",
+    "texto": "Estando Antônio no deserto, assaltaram-no pensamentos de desânimo e desespero, e ele disse a Deus: “Senhor, quero viver, mas os meus pensamentos não o permitem. Que farei nas minhas tribulações para me salvar?” Então viu alguém semelhante a ele, sentado, trançando cordas de palmas; levantava-se do trabalho, rezava, e voltava a sentar-se e a trabalhar. Era um anjo enviado por Deus, que lhe disse: “Faze também tu assim, Antônio, e viverás.” E Antônio, cheio de alegria, fez como o anjo e viveu.",
+    "categoria": "Oração",
+    "fonte": "Budge 1907, n. 131"
+  },
+  {
+    "id": 1049,
+    "autor": "Abba Amon",
+    "texto": "Um irmão pediu a Abba Amon: “Dize-me uma palavra para que eu viva.” Ele respondeu: “Faze a tua mente como a dos malfeitores que estão na prisão e perguntam a quem os visita: ‘Onde está o governador? Quando virá?’ — e tremem na expectativa. Assim o monge deve esperar sempre, dizendo a si mesmo: ‘Ai de mim! Como me apresentarei diante do trono de Cristo? E como lhe responderei?’ Se puderes pensar assim sempre, viverás.”",
+    "categoria": "Vigilância do coração",
+    "fonte": "Budge 1907, n. 136"
+  }
+]
